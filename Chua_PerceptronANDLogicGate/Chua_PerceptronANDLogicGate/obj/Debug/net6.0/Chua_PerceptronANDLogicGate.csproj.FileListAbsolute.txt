@@ -1,0 +1,15 @@
+C:\Users\USER\Documents\CS346\perceptron-and-logic-gate\Chua_PerceptronANDLogicGate\Chua_PerceptronANDLogicGate\bin\Debug\net6.0\Chua_PerceptronANDLogicGate.exe
+C:\Users\USER\Documents\CS346\perceptron-and-logic-gate\Chua_PerceptronANDLogicGate\Chua_PerceptronANDLogicGate\bin\Debug\net6.0\Chua_PerceptronANDLogicGate.deps.json
+C:\Users\USER\Documents\CS346\perceptron-and-logic-gate\Chua_PerceptronANDLogicGate\Chua_PerceptronANDLogicGate\bin\Debug\net6.0\Chua_PerceptronANDLogicGate.runtimeconfig.json
+C:\Users\USER\Documents\CS346\perceptron-and-logic-gate\Chua_PerceptronANDLogicGate\Chua_PerceptronANDLogicGate\bin\Debug\net6.0\Chua_PerceptronANDLogicGate.dll
+C:\Users\USER\Documents\CS346\perceptron-and-logic-gate\Chua_PerceptronANDLogicGate\Chua_PerceptronANDLogicGate\bin\Debug\net6.0\Chua_PerceptronANDLogicGate.pdb
+C:\Users\USER\Documents\CS346\perceptron-and-logic-gate\Chua_PerceptronANDLogicGate\Chua_PerceptronANDLogicGate\obj\Debug\net6.0\Chua_PerceptronANDLogicGate.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\CS346\perceptron-and-logic-gate\Chua_PerceptronANDLogicGate\Chua_PerceptronANDLogicGate\obj\Debug\net6.0\Chua_PerceptronANDLogicGate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\CS346\perceptron-and-logic-gate\Chua_PerceptronANDLogicGate\Chua_PerceptronANDLogicGate\obj\Debug\net6.0\Chua_PerceptronANDLogicGate.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\CS346\perceptron-and-logic-gate\Chua_PerceptronANDLogicGate\Chua_PerceptronANDLogicGate\obj\Debug\net6.0\Chua_PerceptronANDLogicGate.AssemblyInfo.cs
+C:\Users\USER\Documents\CS346\perceptron-and-logic-gate\Chua_PerceptronANDLogicGate\Chua_PerceptronANDLogicGate\obj\Debug\net6.0\Chua_PerceptronANDLogicGate.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\CS346\perceptron-and-logic-gate\Chua_PerceptronANDLogicGate\Chua_PerceptronANDLogicGate\obj\Debug\net6.0\Chua_PerceptronANDLogicGate.dll
+C:\Users\USER\Documents\CS346\perceptron-and-logic-gate\Chua_PerceptronANDLogicGate\Chua_PerceptronANDLogicGate\obj\Debug\net6.0\refint\Chua_PerceptronANDLogicGate.dll
+C:\Users\USER\Documents\CS346\perceptron-and-logic-gate\Chua_PerceptronANDLogicGate\Chua_PerceptronANDLogicGate\obj\Debug\net6.0\Chua_PerceptronANDLogicGate.pdb
+C:\Users\USER\Documents\CS346\perceptron-and-logic-gate\Chua_PerceptronANDLogicGate\Chua_PerceptronANDLogicGate\obj\Debug\net6.0\Chua_PerceptronANDLogicGate.genruntimeconfig.cache
+C:\Users\USER\Documents\CS346\perceptron-and-logic-gate\Chua_PerceptronANDLogicGate\Chua_PerceptronANDLogicGate\obj\Debug\net6.0\ref\Chua_PerceptronANDLogicGate.dll
